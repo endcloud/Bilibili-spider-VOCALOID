@@ -1,0 +1,10 @@
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\bin\Release\ConsoleApp_everyday_spider.exe.config
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\bin\Release\ConsoleApp_everyday_spider.exe
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\bin\Release\ConsoleApp_everyday_spider.pdb
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\bin\Release\MySql.Data.dll
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\bin\Release\Newtonsoft.Json.dll
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\obj\Release\ConsoleApp_everyday_spider.csprojResolveAssemblyReference.cache
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\obj\Release\ConsoleApp_everyday_spider.csproj.CoreCompileInputs.cache
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\obj\Release\ConsoleApp_everyday_spider.csproj.CopyComplete
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\obj\Release\ConsoleApp_everyday_spider.exe
+C:\Users\shizi\Documents\GitHub\Bilibili-spider-VOCALOID\ConsoleApp_everyday_spider\ConsoleApp_everyday_spider\obj\Release\ConsoleApp_everyday_spider.pdb
