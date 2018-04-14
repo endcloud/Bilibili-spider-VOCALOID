@@ -1,3 +1,3 @@
-# Bilibili-spider-VOCALOID
+# Bilibili-spider-VOCALOID（更新中）
 ## 爬虫总共有三种，分别爬取每日数据，七日内数据，以及全部数据。
 ## 另附一个本周数据计算脚本，通过本周与上周数据库之间数据可 计算周刊排名。
